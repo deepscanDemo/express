@@ -7,6 +7,7 @@
   [![Linux Build][travis-image]][travis-url]
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
+  [![DeepScan Grade](http://a5811e54.ngrok.io/api/projects/334/branches/274/badge/grade.svg)](http://dev.deepscan.io:5001/lite/#view=project&pid=334&bid=274)
 
 ```js
 var express = require('express')
